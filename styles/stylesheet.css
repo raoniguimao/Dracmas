@@ -17,7 +17,7 @@ img{
     display: block;
     /* justify-content: flex-start;
     align-items: center; */
-    padding: .2em 0;
+    padding: 0 .2mm;
     text-align: center;
     float: left;
 }
