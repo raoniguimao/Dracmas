@@ -1,0 +1,26 @@
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+img{
+    width: 20mm;
+    height: 20mm;
+}
+.container{
+    margin: auto;
+    width: 210mm;
+    height: 297mm;
+}
+.box{
+    border: 1px dashed black;
+    display: block;
+    /* justify-content: flex-start;
+    align-items: center; */
+    padding: .2em 0;
+    text-align: center;
+    float: left;
+}
+p{
+    margin: auto;
+}
